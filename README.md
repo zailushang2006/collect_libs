@@ -2,9 +2,6 @@
 
 
 ## NLP常永库
-
----
-
 - [jieba](https://github.com/fxsjy/jieba)
 
 ## 词向量
