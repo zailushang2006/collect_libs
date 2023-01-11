@@ -18,19 +18,19 @@
 
 ## 问答和聊天机器人
 - [Chatbot_CN](https://github.com/charlesXu86/Chatbot_CN)
-- [coqa-baselines](https://github.com/stanfordnlp/coqa-baselines)
-- [rasa对话系统系列文章](https://github.com/GaoQ1/rasa_chatbot_cn)
+- [coqa-baselines](https://github.com/stanfordnlp/coqa-baselines) The baselines used in the CoQA paper
+- [rasa_chatbot_cn](https://github.com/GaoQ1/rasa_chatbot_cn) rasa对话系统系列文章
 
 
 
 
 ## 数据库
-- [neosemantics (n10s)](https://github.com/neo4j-labs/neosemantics)
-- [elasticsearch-definitive-guide](https://github.com/elasticsearch-cn/elasticsearch-definitive-guide)
+- [neosemantics (n10s)](https://github.com/neo4j-labs/neosemantics) neosemantics is a plugin that enables the use of RDF in Neo4j.
+- [elasticsearch-definitive-guide](https://github.com/elasticsearch-cn/elasticsearch-definitive-guide) elasticsearch使用文档
 
 
 ## 爬虫和网页解析
-- [military](https://github.com/d470969047h/military) 
+- [military](https://github.com/d470969047h/military) java贼简单的爬虫
 
 
 ## 学习资源
@@ -40,17 +40,17 @@
 
 
 ## 语料库
-- [nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)
+- [nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus) 大规模中文自然语言处理语料
 
 
 
 ## NLP其他库
-- [BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER)
-- [text_matching](https://github.com/pengming617/text_matching)
-- [MatchZoo](https://github.com/NTMC-Community/MatchZoo)
-- [FewRel](https://github.com/thunlp/FewRel)
-- [Keras-TextClassification](https://github.com/yongzhuo/Keras-TextClassification)
-- [text_classification](https://github.com/brightmart/text_classification)
+- [BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER) 命名实体识别
+- [text_matching](https://github.com/pengming617/text_matching) 文本匹配的相关模型
+- [MatchZoo](https://github.com/NTMC-Community/MatchZoo) 通用的文本匹配工具包
+- [FewRel](https://github.com/thunlp/FewRel) A Large-Scale Few-Shot Relation Extraction Dataset
+- [Keras-TextClassification](https://github.com/yongzhuo/Keras-TextClassification) Keras文本分类
+- [text_classification](https://github.com/brightmart/text_classification) all kinds of text classification models
 
 
 
