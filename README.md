@@ -3,7 +3,7 @@
 
 ## 深度学习框架
 - [pytorch](https://github.com/pytorch/pytorch)
-- 
+
 
 ## NLP常用库
 - [jieba](https://github.com/fxsjy/jieba)
@@ -104,21 +104,21 @@
 
 
 ## NLP其他库
-### 相似度
+#### 相似度
 - [text_matching](https://github.com/pengming617/text_matching) 文本匹配的相关模型
 - [MatchZoo](https://github.com/NTMC-Community/MatchZoo) 通用的文本匹配工具包
 - [Final_word_Similarity](https://github.com/yaleimeng/Final_word_Similarity) 综合了同义词词林扩展版与知网（Hownet）的词语相似度计算方法，词汇覆盖更多、结果更准确。
 - [Text-Similarity](https://github.com/pengshuang/Text-Similarity) Text-Similarity Method in Pytorch
 
-### 摘要
+#### 摘要
 - [awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization) text summarization
 
-### 实体链接
+#### 实体链接
 - [ccks_baidu_entity_link](https://github.com/panchunguang/ccks_baidu_entity_link) CCKS&百度 2019中文短文本的实体链指 第一名解决方案
 - [ccks2019_el](https://github.com/AlexYangLi/ccks2019_el) CCKS 2019 中文短文本实体链指比赛技术创新奖解决方案
 
 
-### 信息抽取
+#### 信息抽取
 - [BERT-BiLSTM-CRF-NER](https://github.com/macanv/BERT-BiLSTM-CRF-NER) 命名实体识别
 - [Event-Extraction](https://github.com/benkang-chen/Event-Extraction) 事件抽取相关算法汇总
 - [FewRel](https://github.com/thunlp/FewRel) A Large-Scale Few-Shot Relation Extraction Dataset
@@ -129,12 +129,12 @@
 - [OpenIE-standalone](https://github.com/dair-iitd/OpenIE-standalone) Open IE 5.1
 
 
-### 分类
+#### 分类
 - [Keras-TextClassification](https://github.com/yongzhuo/Keras-TextClassification) Keras文本分类
 - [text_classification](https://github.com/brightmart/text_classification) all kinds of text classification models
 - [BERT-Classification-Tutorial](https://github.com/Socialbird-AILab/BERT-Classification-Tutorial) BERT-Classification
 
-### 其他
+#### 其他
 - [Synonyms](https://github.com/chatopera/Synonyms) 中文近义词
 - [OpenCC](https://github.com/BYVoid/OpenCC) 中文簡繁轉換開源項目
 - [fastText](https://github.com/facebookresearch/fastText) Library for fast text representation and classification.
