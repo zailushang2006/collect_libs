@@ -14,6 +14,9 @@
 - [HanLP](https://github.com/hankcs/HanLP) HanLP: 面向生产环境的多语种自然语言处理工具包
 - [ltp](https://github.com/HIT-SCIR/ltp) Language Technology Platform
 - [pyltp](https://github.com/HIT-SCIR/pyltp) pyltp: the python extension for LTP
+- [PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) PaddleNLP
+- [Senta](https://github.com/baidu/Senta) 百度开源情感分析
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) 百度开源OCR
 
 
 ## 词向量
