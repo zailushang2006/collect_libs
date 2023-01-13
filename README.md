@@ -161,6 +161,10 @@
 - [serverspeeder](https://github.com/91yun/serverspeeder) serverspeeder锐速一键破解安装版
 - [google-maps-services-python](https://github.com/googlemaps/google-maps-services-python) serverspeeder锐速一键破解安装版
 - [xxl-job](https://github.com/xuxueli/xxl-job) 分布式任务调度平台
+- [fabric](https://github.com/fabric/fabric) Fabric 是一个 Python (2.5-2.7) 的库和命令行工具，用来提高基于 SSH 的应用部署和系统管理效率。
+- [invoke](https://github.com/pyinvoke/invoke) Pythonic task management & command execution.
+
+
 
 
 ## 其他
